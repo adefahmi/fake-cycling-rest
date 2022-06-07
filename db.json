@@ -1,0 +1,56 @@
+{
+    "statistic": {
+        "meta": {
+            "code": 200,
+            "status": "success",
+            "message": "Data berhasil Dibuat"
+        },
+        "data": {
+            "summary": {
+                "personal_training_total" : 100,
+                "annual_training_total": 2,
+                "subscribe_total": 20,
+                "training_failed": 10,
+                "training_success": 10            
+            },
+            "detail": [
+                {
+                    "tanggal": "2022-06-01",
+                    "duration_avg":200,
+                    "duration_max":200,
+                    "duration_min":200,
+                    "distance_avg":200,
+                    "distance_max":200,
+                    "distance_min":200,
+                    "elevation_avg":200,
+                    "elevation_max":200,
+                    "elevation_min":200,
+                    "speed_avg":200,
+                    "speed_max":200,
+                    "hr_avg":200,
+                    "hr_max":200,
+                    "calories": 200
+                },
+                {
+                    "tanggal": "2022-06-02",
+                    "duration_avg":200,
+                    "duration_max":200,
+                    "duration_min":200,
+                    "distance_avg":200,
+                    "distance_max":200,
+                    "distance_min":200,
+                    "elevation_avg":200,
+                    "elevation_max":200,
+                    "elevation_min":200,
+                    "speed_avg":200,
+                    "speed_max":200,
+                    "hr_avg":200,
+                    "hr_max":200,
+                    "calories": 200
+                }
+            ]
+    
+            
+        }
+    }
+}
