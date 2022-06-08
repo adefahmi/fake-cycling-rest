@@ -11,7 +11,8 @@
                 "annual_training_total": 2,
                 "subscribe_total": 20,
                 "training_failed": 10,
-                "training_success": 10            
+                "training_success": 10,
+                "achievement_total": 10            
             },
             "detail": [
                 {
